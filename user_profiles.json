@@ -1,0 +1,171 @@
+{
+    "David one": {
+        "name": "David one",
+        "created": "2025-09-05 17:28",
+        "tests_completed": 8,
+        "total_words": 52,
+        "total_time": 480,
+        "best_wpm": 35.52,
+        "best_accuracy": 100.0,
+        "achievements": [
+            "first_blood",
+            "perfectionist"
+        ],
+        "weak_keys": {},
+        "key_accuracy": {
+            "k": {
+                "correct": 4,
+                "total": 4
+            },
+            "e": {
+                "correct": 28,
+                "total": 28
+            },
+            "p": {
+                "correct": 16,
+                "total": 16
+            },
+            " ": {
+                "correct": 44,
+                "total": 44
+            },
+            "r": {
+                "correct": 16,
+                "total": 16
+            },
+            "a": {
+                "correct": 20,
+                "total": 20
+            },
+            "c": {
+                "correct": 8,
+                "total": 8
+            },
+            "t": {
+                "correct": 16,
+                "total": 16
+            },
+            "i": {
+                "correct": 16,
+                "total": 16
+            },
+            "n": {
+                "correct": 20,
+                "total": 20
+            },
+            "g": {
+                "correct": 4,
+                "total": 4
+            },
+            "v": {
+                "correct": 8,
+                "total": 8
+            },
+            "y": {
+                "correct": 16,
+                "total": 16
+            },
+            "d": {
+                "correct": 8,
+                "total": 8
+            },
+            "o": {
+                "correct": 16,
+                "total": 16
+            },
+            "m": {
+                "correct": 4,
+                "total": 4
+            },
+            "h": {
+                "correct": 4,
+                "total": 4
+            },
+            "s": {
+                "correct": 8,
+                "total": 8
+            },
+            "f": {
+                "correct": 4,
+                "total": 4
+            },
+            "u": {
+                "correct": 4,
+                "total": 4
+            },
+            "l": {
+                "correct": 4,
+                "total": 4
+            }
+        },
+        "history": [
+            {
+                "date": "2025-09-05 17:29",
+                "wpm": 8.84,
+                "accuracy": 100.0,
+                "difficulty": "Easy",
+                "language": "English"
+            },
+            {
+                "date": "2025-09-05 17:43",
+                "wpm": 24.07,
+                "accuracy": 100.0,
+                "difficulty": "Easy",
+                "language": "English"
+            },
+            {
+                "date": "2025-09-05 17:45",
+                "wpm": 13.56,
+                "accuracy": 100.0,
+                "difficulty": "Easy",
+                "language": "English"
+            },
+            {
+                "date": "2025-09-05 17:46",
+                "wpm": 13.52,
+                "accuracy": 100.0,
+                "difficulty": "Easy",
+                "language": "English"
+            },
+            {
+                "date": "2025-09-10 14:31",
+                "wpm": 32.92,
+                "accuracy": 100.0,
+                "difficulty": "Easy",
+                "language": "English"
+            },
+            {
+                "date": "2025-09-10 14:32",
+                "wpm": 25.53,
+                "accuracy": 100.0,
+                "difficulty": "Easy",
+                "language": "English"
+            },
+            {
+                "date": "2025-09-10 14:32",
+                "wpm": 26.22,
+                "accuracy": 100.0,
+                "difficulty": "Easy",
+                "language": "English"
+            },
+            {
+                "date": "2025-09-10 14:32",
+                "wpm": 35.52,
+                "accuracy": 100.0,
+                "difficulty": "Easy",
+                "language": "English"
+            }
+        ],
+        "languages_tried": "{'English', \"{'English'}\"}",
+        "games_completed": [],
+        "daily_challenges": 0,
+        "last_daily_challenge": null,
+        "ergonomics_reminders": 0,
+        "last_ergonomics_reminder": null,
+        "typing_biometrics": {
+            "avg_keypress_duration": 0,
+            "rhythm_consistency": 0,
+            "error_patterns": {}
+        }
+    }
+}

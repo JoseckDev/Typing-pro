@@ -1,0 +1,366 @@
+{
+  "profiles": {
+    "Guest": {
+      "name": "Guest",
+      "created": "2025-09-02T23:04:03Z",
+      "tests_completed": 0,
+      "best_wpm": 0.0,
+      "best_accuracy": 0.0,
+      "languages_tried": [],
+      "history": [],
+      "weak_keys": {},
+      "achievements": [],
+      "games_completed": [],
+      "daily_challenges": 0,
+      "last_daily_challenge": null,
+      "ergonomics_reminders": 0,
+      "last_ergonomics_reminder": null,
+      "typing_biometrics": {},
+      "version": 2
+    },
+    "Joseck David": {
+      "name": "Joseck David",
+      "created": "2025-09-02T23:17:04Z",
+      "tests_completed": 37,
+      "best_wpm": 29.72,
+      "best_accuracy": 100.0,
+      "languages_tried": [
+        "English",
+        "Spanish",
+        "German"
+      ],
+      "history": [
+        {
+          "date": "2025-09-02T23:19:08Z",
+          "wpm": 12.32,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:19:12Z",
+          "wpm": 10.55,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:19:19Z",
+          "wpm": 8.42,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:19:21Z",
+          "wpm": 8.14,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:20:03Z",
+          "wpm": 20.43,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:20:05Z",
+          "wpm": 18.22,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:00Z",
+          "wpm": 9.51,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:03Z",
+          "wpm": 8.83,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:20Z",
+          "wpm": 27.86,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:28Z",
+          "wpm": 18.77,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:29Z",
+          "wpm": 17.55,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:30Z",
+          "wpm": 16.94,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:31Z",
+          "wpm": 16.53,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:31Z",
+          "wpm": 16.37,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:31Z",
+          "wpm": 16.22,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:31Z",
+          "wpm": 16.09,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:22:32Z",
+          "wpm": 15.96,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:23:13Z",
+          "wpm": 23.09,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:24:01Z",
+          "wpm": 20.62,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:24:20Z",
+          "wpm": 9.99,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:25:04Z",
+          "wpm": 18.47,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:25:21Z",
+          "wpm": 26.5,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:25:44Z",
+          "wpm": 27.94,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:26:01Z",
+          "wpm": 29.63,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:26:45Z",
+          "wpm": 27.73,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:27:08Z",
+          "wpm": 24.27,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:27:24Z",
+          "wpm": 29.72,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:28:06Z",
+          "wpm": 19.4,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:28:22Z",
+          "wpm": 27.24,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:28:43Z",
+          "wpm": 23.03,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:29:00Z",
+          "wpm": 25.49,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:29:20Z",
+          "wpm": 21.28,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:29:35Z",
+          "wpm": 28.37,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:29:36Z",
+          "wpm": 27.34,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        },
+        {
+          "date": "2025-09-02T23:30:31Z",
+          "wpm": 5.27,
+          "accuracy": 97.22,
+          "duration": 60,
+          "language": "Spanish"
+        },
+        {
+          "date": "2025-09-02T23:39:36Z",
+          "wpm": 13.09,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "German"
+        },
+        {
+          "date": "2025-09-02T23:43:03Z",
+          "wpm": 0.0,
+          "accuracy": 0.0,
+          "duration": 60,
+          "language": "German"
+        }
+      ],
+      "weak_keys": {
+        "\u00ed": 1
+      },
+      "achievements": [],
+      "games_completed": [],
+      "daily_challenges": 0,
+      "last_daily_challenge": null,
+      "ergonomics_reminders": 2,
+      "last_ergonomics_reminder": "2025-09-03 02:54:57",
+      "typing_biometrics": {
+        "error_patterns": {
+          "\u00ed->i": 1
+        }
+      },
+      "version": 2
+    },
+    "David Robinson": {
+      "name": "David Robinson",
+      "created": "2025-09-02T23:58:58Z",
+      "tests_completed": 0,
+      "best_wpm": 0.0,
+      "best_accuracy": 0.0,
+      "languages_tried": [],
+      "history": [],
+      "weak_keys": {},
+      "achievements": [],
+      "games_completed": [],
+      "daily_challenges": 0,
+      "last_daily_challenge": null,
+      "ergonomics_reminders": 1,
+      "last_ergonomics_reminder": "2025-09-03 02:59:07",
+      "typing_biometrics": {},
+      "version": 2
+    },
+    "Kevin Baraka": {
+      "name": "Kevin Baraka",
+      "created": "2025-09-03T00:20:23+00:00Z",
+      "tests_completed": 1,
+      "best_wpm": 17.7,
+      "best_accuracy": 100.0,
+      "languages_tried": [
+        "English"
+      ],
+      "history": [
+        {
+          "date": "2025-09-03T00:21:57Z",
+          "wpm": 17.7,
+          "accuracy": 100.0,
+          "duration": 60,
+          "language": "English"
+        }
+      ],
+      "weak_keys": {},
+      "achievements": [],
+      "games_completed": [],
+      "daily_challenges": 0,
+      "last_daily_challenge": null,
+      "ergonomics_reminders": 1,
+      "last_ergonomics_reminder": "2025-09-03 03:20:30",
+      "typing_biometrics": {
+        "error_patterns": {}
+      },
+      "version": 2
+    }
+  },
+  "settings": {
+    "test_duration": 60,
+    "theme": "System",
+    "sound_enabled": false,
+    "music_enabled": false,
+    "ergonomics_enabled": true,
+    "reminder_interval": 1200
+  }
+}
